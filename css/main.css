@@ -7,7 +7,7 @@ body { background: #0f0f0f; }
    position: relative;
    height: 650px!important;
    width: 100%;
-  <A HREF="https://sourabhbit.github.io"><IMG SRC="https://sourabhbit.github.io/images/2.JPG"></a> no-repeat center center fixed;
+  <A HREF="https://sourabhbit.github.io"><IMG SRC="https://sourabhbit.github.io/images/2.JPG"></a>;
       -webkit-background: url("https://sourabhbit.github.io/images/2.JPG") no-repeat center center fixed;
    -moz-background: url("https://sourabhbit.github.io/images/2.JPG") no-repeat center center fixed;
    -o-background: url("https://sourabhbit.github.io/images/2.JPG") no-repeat center center fixed;
