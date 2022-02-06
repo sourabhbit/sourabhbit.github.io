@@ -4,12 +4,14 @@ avatar: 'me.jpg'
 skills:
   - JavaScript (ES6+)
   - ReactJs
+  - Redux-Saga
   - TypeScript
   - NextJs
   - VueJs
   - HTML5
   - CSS3
   - Styled Component
+  - Jest & Enzyme
 ---
 
 Hello! I’m Sourabh or Simply Developer. I develope web-applications and turn
