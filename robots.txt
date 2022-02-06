@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sourabhbi.github.io/sitemap/sitemap-index.xml
-Host: https://sourabhbi.github.io
