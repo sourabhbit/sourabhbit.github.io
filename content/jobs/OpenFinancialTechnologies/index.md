@@ -2,7 +2,7 @@
 date: '2022-10-1'
 title: 'Frontend Developer'
 company: 'Open Financial Technologies'
-range: 'October 2022 - Present'
+range: 'October 2022 - December 2022'
 url: 'http://open.money/'
 ---
 
